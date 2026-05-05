@@ -25,3 +25,16 @@ Ich habe das MVP gemeinsam mit meinem Gruppenmitglied besprochen. Wir haben dar�
 
 ### Wobei brauche ich Unterstützung?
 Ich brauche noch Unterstützung beim sauberen Erstellen von UML‑Diagrammen in draw.io, besonders beim Ausrichten und Verbinden der Elemente. Außerdem wäre Feedback hilfreich, ob unser geplantes MVP technisch sinnvoll aufgebaut ist und sich gut erweitern lässt.
+
+
+
+## Woche 5
+
+### Was habe ich bisher geschafft?
+In dieser Woche habe ich intensiv mit Git und GitHub an unserem Tycoon‑Spiel gearbeitet. Ich habe gelernt, wie Branches verwendet werden, um Änderungen getrennt vom main‑Branch zu entwickeln. Dabei habe ich versucht, meinen Feature‑Branch mit dem aktuellen Stand von main zu synchronisieren. Währenddessen sind Merge‑Konflikte aufgetreten, insbesondere durch Build‑Artefakte (bin und obj). Diese Probleme habe ich analysiert und anschließend eine .gitignore‑Datei erstellt, um solche Dateien künftig von Git auszuschließen. Außerdem habe ich meinen Branch bewusst auf den aktuellen Stand von main zurückgesetzt, um sauber weiterarbeiten zu können.
+
+### Was nehme ich mir heute vor?
+Ich möchte mich weiter mit einer sauberen Git‑Arbeitsweise beschäftigen, insbesondere mit dem sinnvollen Einsatz von Branches und dem sicheren Aktualisieren meines Arbeitszweigs anhand von main. Zudem plane ich, mich wieder stärker auf die eigentliche Spiellogik des Tycoon‑Spiels zu konzentrieren und kleine Code‑Anpassungen vorzunehmen, ohne unnötige Dateien ins Repository aufzunehmen.
+
+### Wobei brauche ich Unterstützung?
+Ich brauche noch Unterstützung beim sicheren und selbstständigen Umgang mit Git‑Konflikten, insbesondere beim Zusammenführen von Branches und beim Abschätzen, wann ein Reset sinnvoller ist als ein Merge. Außerdem wäre eine kurze Erklärung hilfreich, welche Dateien in .NET‑Projekten typischerweise ignoriert werden sollten und warum.
