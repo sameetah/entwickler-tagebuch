@@ -38,3 +38,12 @@ Ich möchte mich weiter mit einer sauberen Git‑Arbeitsweise beschäftigen, ins
 
 ### Wobei brauche ich Unterstützung?
 Ich brauche noch Unterstützung beim sicheren und selbstständigen Umgang mit Git‑Konflikten, insbesondere beim Zusammenführen von Branches und beim Abschätzen, wann ein Reset sinnvoller ist als ein Merge. Außerdem wäre eine kurze Erklärung hilfreich, welche Dateien in .NET‑Projekten typischerweise ignoriert werden sollten und warum.
+
+
+## Woche 6
+
+### Was habe ich bisher geschafft?
+In dieser Woche habe ich im Tycoon‑Projekt eine while‑Schleife als Hauptmenü eingebaut, damit das Spiel wiederholt läuft. Außerdem habe ich die Eingabeprüfung verbessert, indem ich statt vieler if‑Abfragen ein try/catch für ungültige Eingaben genutzt habe.
+
+### Was nehme ich mir heute vor?
+Ich möchte die Menü‑Punkte (Kaufen/Verkaufen/Neuer Tag) weiter mit Logik füllen und den Code aufräumen, damit Main() übersichtlicher bleibt.
