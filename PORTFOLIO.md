@@ -27,6 +27,29 @@ Ich habe das MVP gemeinsam mit meinem Gruppenmitglied besprochen. Wir haben dar�
 Ich brauche noch Unterstützung beim sauberen Erstellen von UML‑Diagrammen in draw.io, besonders beim Ausrichten und Verbinden der Elemente. Außerdem wäre Feedback hilfreich, ob unser geplantes MVP technisch sinnvoll aufgebaut ist und sich gut erweitern lässt.
 
 
+## Woche 3
+
+### Was habe ich bisher geschafft?
+In dieser Woche habe ich mich weiter mit dem MVP unseres Tycoon‑Spiels beschäftigt und das UML‑Diagramm besser mit den geplanten Klassen verknüpft. Außerdem habe ich mit meinem Gruppenmitglied besprochen, welche Funktionen für die erste lauffähige Version wirklich notwendig sind.
+
+### Was nehme ich mir heute vor?
+Ich möchte die wichtigsten Klassen wie Player, Farm und Product besser verstehen und daraus einen einfachen Spielablauf ableiten.
+
+### Wobei brauche ich Unterstützung?
+Ich brauche noch Unterstützung dabei, den Zusammenhang zwischen UML‑Planung und tatsächlichem Code besser zu verstehen.
+
+## Woche 3
+
+### Was habe ich bisher geschafft?
+In dieser Woche habe ich begonnen, die ersten Teile des Tycoon‑Spiels in Code nachzuvollziehen. Dabei habe ich mich mit den Klassen Product, Farm und Player beschäftigt und verstanden, wie daraus eine erste einfache Spielversion entstehen kann.
+
+### Was nehme ich mir heute vor?
+Ich möchte mich weiter mit dem Spielfluss beschäftigen, insbesondere mit Menüführung und der Idee eines einfachen Game Loops.
+
+
+### Wobei brauche ich Unterstützung?
+Ich brauche noch Unterstützung beim Verständnis, wie aus einzelnen Klassen zusammen ein funktionierender Spielablauf entsteht.
+
 
 ## Woche 5
 
