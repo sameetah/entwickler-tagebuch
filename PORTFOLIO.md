@@ -85,3 +85,15 @@ Ich möchte den aktuellen Tag automatisch im Menü anzeigen und die Logik für d
 
 ### Wobei brauche ich Unterstützung?
 Ich brauche Unterstützung bei der Umsetzung der Ernte‑Logik aus dem UML‑Diagramm und Feedback zur Struktur meiner Klassen.
+
+
+## Woche 7
+
+### Was habe ich bisher geschafft?
+Heute habe ich intensiv mit Git gearbeitet. Ich habe meinen Feature-Branch gepusht, Pull Requests verstanden und gelernt, wie man Änderungen korrekt in den main-Branch merged. Außerdem habe ich Fehler bei untracked Files erkannt (z. B. obj/) und .gitignore verbessert.
+
+### Was nehme ich mir heute vor?
+Ich möchte den Git-Workflow weiter festigen (checkout, pull, merge) und sauber mit Branches arbeiten, damit Teammitglieder meine Änderungen problemlos bekommen.
+
+### Wobei brauche ich Unterstützung?
+Ich brauche noch Sicherheit beim richtigen Ablauf im Team (wann merge/push/pull) und beim Umgang mit Konflikten sowie .gitignore-Best Practices.
