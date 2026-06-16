@@ -70,3 +70,18 @@ In dieser Woche habe ich im Tycoon‑Projekt eine while‑Schleife als Hauptmen�
 
 ### Was nehme ich mir heute vor?
 Ich möchte die Menü‑Punkte (Kaufen/Verkaufen/Neuer Tag) weiter mit Logik füllen und den Code aufräumen, damit Main() übersichtlicher bleibt.
+
+
+
+## Woche 6
+### Was habe ich bisher geschafft?
+Ich habe Git genutzt, um die neuesten Änderungen aus main zu holen und in meinen Branch zu übernehmen. Außerdem habe ich das Projekt in Visual Studio korrekt gestartet (Startprojekt gesetzt).
+Im Code habe ich ein Tag‑System eingeführt (Day in Farm) und die Methode NextDay() implementiert. Der Tag kann jetzt über das Menü erhöht werden.
+
+
+### Was nehme ich mir heute vor?
+Ich möchte den aktuellen Tag automatisch im Menü anzeigen und die Logik für den nächsten Schritt (z. B. Ernte/„Ready to Harvest“) umsetzen.
+
+
+### Wobei brauche ich Unterstützung?
+Ich brauche Unterstützung bei der Umsetzung der Ernte‑Logik aus dem UML‑Diagramm und Feedback zur Struktur meiner Klassen.
