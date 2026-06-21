@@ -38,7 +38,7 @@ Ich möchte die wichtigsten Klassen wie Player, Farm und Product besser verstehe
 ### Wobei brauche ich Unterstützung?
 Ich brauche noch Unterstützung dabei, den Zusammenhang zwischen UML‑Planung und tatsächlichem Code besser zu verstehen.
 
-## Woche 3
+## Woche 4
 
 ### Was habe ich bisher geschafft?
 In dieser Woche habe ich begonnen, die ersten Teile des Tycoon‑Spiels in Code nachzuvollziehen. Dabei habe ich mich mit den Klassen Product, Farm und Player beschäftigt und verstanden, wie daraus eine erste einfache Spielversion entstehen kann.
@@ -73,7 +73,7 @@ Ich möchte die Menü‑Punkte (Kaufen/Verkaufen/Neuer Tag) weiter mit Logik fü
 
 
 
-## Woche 6
+## Woche 7
 ### Was habe ich bisher geschafft?
 Ich habe Git genutzt, um die neuesten Änderungen aus main zu holen und in meinen Branch zu übernehmen. Außerdem habe ich das Projekt in Visual Studio korrekt gestartet (Startprojekt gesetzt).
 Im Code habe ich ein Tag‑System eingeführt (Day in Farm) und die Methode NextDay() implementiert. Der Tag kann jetzt über das Menü erhöht werden.
@@ -87,7 +87,7 @@ Ich möchte den aktuellen Tag automatisch im Menü anzeigen und die Logik für d
 Ich brauche Unterstützung bei der Umsetzung der Ernte‑Logik aus dem UML‑Diagramm und Feedback zur Struktur meiner Klassen.
 
 
-## Woche 7
+## Woche 8
 
 ### Was habe ich bisher geschafft?
 Heute habe ich intensiv mit Git gearbeitet. Ich habe meinen Feature-Branch gepusht, Pull Requests verstanden und gelernt, wie man Änderungen korrekt in den main-Branch merged. Außerdem habe ich Fehler bei untracked Files erkannt (z. B. obj/) und .gitignore verbessert.
